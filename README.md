@@ -1,4 +1,4 @@
-#Resolvendo o Set Cover com OpenSolver e Pyomo
+# Resolvendo o Set Cover com OpenSolver e Pyomo
 
 A ideia deste exercício é resolver o problema da cobertura de conjuntos, utilizando o Pyomo  (http://www.pyomo.org/) e o OpenSolver (www.opensolver.org).
 
