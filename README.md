@@ -1,3 +1,5 @@
+#Resolvendo o Set Cover com OpenSolver e Pyomo
+
 A ideia deste exercício é resolver o problema da cobertura de conjuntos, utilizando o Pyomo  (http://www.pyomo.org/) e o OpenSolver (www.opensolver.org).
 
 O Set cover é o problema de cobertura de conjuntos.
@@ -12,7 +14,7 @@ Algumas aplicações: imagine que há várias doenças, e uma série de vacinas.
 
 ![](https://forgottenmathhome.files.wordpress.com/2020/01/set01.jpg)
 
-Open Solver:
+## Open Solver:
 
 Variável de decisão binária: utilizo ou não o conjunto.
 
@@ -24,7 +26,7 @@ Restrição: devo cobrir todos os elementos.
 Resultado: FO de 223 e as escolhas pintadas em rosa.
 ![](https://forgottenmathhome.files.wordpress.com/2020/01/set03.jpg)
 
-Formulação Pyomo:
+## Formulação Pyomo:
 
 Leitura de dados utilizando o módulo pandas.
 
