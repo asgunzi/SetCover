@@ -85,7 +85,8 @@ Algumas configurações do solver, e depois mando resolver
     results  = solver.solve(model)
 
     results.write() #para mostrar o status da solucao
-![](https://forgottenmathhome.files.wordpress.com/2020/01/set04.jpg)
+
+![](https://forgottenmathhome.files.wordpress.com/2020/01/set04.png)
 
 O resultado obtido foi o mesmo do OpenSolver.
 
